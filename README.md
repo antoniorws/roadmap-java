@@ -1,4 +1,4 @@
-# Trilha Java Básico
+# Trilha Java Básico 💻
 
 obs: _em construção_, se você quiser pode adicionar algo aqui.
 
