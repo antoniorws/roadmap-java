@@ -83,3 +83,7 @@ https://dev.to/antoniorws/dominando-o-poder-dos-testes-unitarios-em-java-com-jun
 **Busca Binária com Vetor**
 
 https://dev.to/antoniorws/descubra-o-segredo-da-busca-binaria-em-java-a-caca-ao-tesouro-eficiente-29a2
+
+**Threads**
+
+https://dev.to/antoniorws/explorando-o-multitarefa-com-threads-em-java-cozinhando-cafe-e-preparando-ovos-1ilm
