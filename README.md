@@ -4,6 +4,10 @@ obs: _em construção_, se você quiser pode adicionar algo aqui.
 
 _Em breve farei os commits dos códigos_
 
+**Como o Java Funciona**
+
+https://dev.to/antoniorws/agora-voce-vai-entender-como-o-java-funciona-23pj
+
 **POO**
 
 https://dev.to/antoniorws/simples-poo-em-java-5366
