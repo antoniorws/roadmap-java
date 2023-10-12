@@ -91,3 +91,18 @@ https://dev.to/antoniorws/descubra-o-segredo-da-busca-binaria-em-java-a-caca-ao-
 **Threads**
 
 https://dev.to/antoniorws/explorando-o-multitarefa-com-threads-em-java-cozinhando-cafe-e-preparando-ovos-1ilm
+
+**Cliente Servidor**</br>
+_TODO_
+
+**Collection Set**</br>
+_TODO_
+
+**Buble Sort**</br>
+_TODO_
+
+**Padrões de Projeto**</br>
+_TODO_
+
+**SOLID**</br>
+_TODO_
