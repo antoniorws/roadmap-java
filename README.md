@@ -92,6 +92,10 @@ https://dev.to/antoniorws/descubra-o-segredo-da-busca-binaria-em-java-a-caca-ao-
 
 https://dev.to/antoniorws/explorando-o-multitarefa-com-threads-em-java-cozinhando-cafe-e-preparando-ovos-1ilm
 
+**Exceptions**</br>
+_TODO_
+
+
 **Cliente Servidor**</br>
 _TODO_
 
