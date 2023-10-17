@@ -40,7 +40,7 @@ https://dev.to/antoniorws/heranca-e-classes-abstratas-em-java-7l8
 
 https://dev.to/antoniorws/desvendando-o-misterio-dos-generics-em-java-code-com-flexibilidade-magica-3hmb
 
-**Enuns e Fábrica Solitão**
+**Enums e Fábrica Solitão**
 
 https://dev.to/antoniorws/enum-fabrica-solitao-em-java-4dc1
 
