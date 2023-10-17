@@ -84,29 +84,22 @@ https://dev.to/antoniorws/vou-explicar-o-hashmap-em-java-de-forma-simples-pode-s
 
 https://dev.to/antoniorws/dominando-o-poder-dos-testes-unitarios-em-java-com-junit-construa-codigo-solido-e-confiavel-41cm
 
-**Busca Binária com Vetor**
+**Algoritmos**
 
-https://dev.to/antoniorws/descubra-o-segredo-da-busca-binaria-em-java-a-caca-ao-tesouro-eficiente-29a2
+- Busca Binária com Vetor: https://dev.to/antoniorws/descubra-o-segredo-da-busca-binaria-em-java-a-caca-ao-tesouro-eficiente-29a2
+- Buble Sort: _TODO_
 
 **Threads**
-
 https://dev.to/antoniorws/explorando-o-multitarefa-com-threads-em-java-cozinhando-cafe-e-preparando-ovos-1ilm
 
-**Exceptions**</br>
-_TODO_
+**Exceptions**
+https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601
 
+**Collection Set**
+https://www.devmedia.com.br/java-collections-set-list-e-iterator/29637
 
-**Cliente Servidor**</br>
-_TODO_
+**Padrões de Projeto**
+https://www.devmedia.com.br/entendendo-os-conceitos-dos-padroes-de-projetos-em-java/29083
 
-**Collection Set**</br>
-_TODO_
-
-**Buble Sort**</br>
-_TODO_
-
-**Padrões de Projeto**</br>
-_TODO_
-
-**SOLID**</br>
-_TODO_
+**SOLID**
+https://mari-azevedo.medium.com/princ%C3%ADpios-s-o-l-i-d-o-que-s%C3%A3o-e-porque-projetos-devem-utiliz%C3%A1-los-bf496b82b299
