@@ -50,10 +50,6 @@ https://dev.to/antoniorws/desvendando-o-misterio-dos-generics-em-java-code-com-f
 
 https://dev.to/antoniorws/enum-fabrica-solitao-em-java-4dc1
 
-- **Classes aninhadas**
-
-https://dev.to/antoniorws/classes-aninhadas-em-java-1a8e
-
 - **Scacnner**
 
 https://dev.to/antoniorws/scanner-em-java-24o1
