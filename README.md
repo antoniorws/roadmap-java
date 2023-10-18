@@ -26,6 +26,14 @@ https://dev.to/antoniorws/os-superpoderes-de-static-e-a-inquebravel-fortaleza-fi
 
 https://dev.to/antoniorws/metodos-em-java-a-magia-por-tras-da-programacao-simplificada-292f
 
+- **Encapsulamento**
+
+https://dev.to/antoniorws/o-que-e-encapsulamento-em-java-2i6k
+
+- **Objetos Imutáveis**
+
+https://dev.to/antoniorws/objetos-imutaveis-1d5o
+
 - **Interface e Polimorfismo**
 
 https://dev.to/antoniorws/interfaces-e-polimorfismo-3ckm
@@ -41,14 +49,6 @@ https://dev.to/antoniorws/desvendando-o-misterio-dos-generics-em-java-code-com-f
 - **Enums e Fábrica Solitão**
 
 https://dev.to/antoniorws/enum-fabrica-solitao-em-java-4dc1
-
-- **Encapsulamento**
-
-https://dev.to/antoniorws/o-que-e-encapsulamento-em-java-2i6k
-
-- **Objetos Imutáveis**
-
-https://dev.to/antoniorws/objetos-imutaveis-1d5o
 
 - **Classes aninhadas**
 
