@@ -62,7 +62,7 @@ https://dev.to/antoniorws/explorando-nodes-em-java-5e59
 
 https://dev.to/antoniorws/vetores-em-java-hgn
 
-- **Listas List**
+- **List**
 
 https://dev.to/antoniorws/listas-em-java-uma-introducao-simples-e-pratica-2e79
 
