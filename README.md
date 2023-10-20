@@ -92,7 +92,7 @@ https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601
 
 - **Collection Set**
 
-https://www.devmedia.com.br/java-collections-set-list-e-iterator/29637
+https://dev.to/antoniorws/lista-em-java-sem-valores-repetidos-4n42
 
 - **Padrões de Projeto**
 
