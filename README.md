@@ -1,6 +1,6 @@
 # Trilha Java Básico 💻
 
-obs: _em construção_, se você quiser pode adicionar algo aqui.
+_Trilha básica para aprender a linguagem java, aqui não tem frameworks ou integrações com serviços externos..._
 
  - **Como o Java Funciona**
 
