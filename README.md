@@ -1,6 +1,6 @@
 # Trilha Java Básico 💻
 
-obs: _em construção_, se você quiser pode adicionar algo aqui.
+_Trilha básica para aprender a linguagem java, aqui não tem frameworks ou integrações com serviços externos..._
 
  - **Como o Java Funciona**
 
@@ -46,7 +46,7 @@ https://dev.to/antoniorws/heranca-e-classes-abstratas-em-java-7l8
 
 https://dev.to/antoniorws/desvendando-o-misterio-dos-generics-em-java-code-com-flexibilidade-magica-3hmb
 
-- **Enums e Fábrica Solitão**
+- **Enums**
 
 https://dev.to/antoniorws/enum-fabrica-solitao-em-java-4dc1
 
@@ -74,7 +74,7 @@ https://dev.to/antoniorws/simplificando-expressoes-lambdas-em-java-4nla
 
 https://dev.to/antoniorws/vou-explicar-o-hashmap-em-java-de-forma-simples-pode-ser-2c9g
 
-- **Teste unitário JUnit**
+- **Teste Unitário JUnit**
 
 https://dev.to/antoniorws/dominando-o-poder-dos-testes-unitarios-em-java-com-junit-construa-codigo-solido-e-confiavel-41cm
 
