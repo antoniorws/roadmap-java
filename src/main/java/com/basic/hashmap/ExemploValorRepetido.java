@@ -13,7 +13,7 @@ public class ExemploValorRepetido {
 
         for (int idade : mapaDeIdades.values()) {
             // O útltimo value é o que prevalece
-            System.out.println(idade); // saída: 2
+            System.out.println("idade: " + idade); // saída: idade: 2
         }
     }
 }
