@@ -1,11 +1,12 @@
 package com.basic.hashmap;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public class ExemploHashMap {
     public static void main(String[] args) {
         // Criando um HashMap de nomes e idades
-        HashMap<String, Integer> mapaDeIdades = new HashMap<>();
+        Map<String, Integer> mapaDeIdades = new HashMap<>();
 
         // Adicionando pares chave-valor ao HashMap11
         mapaDeIdades.put("Alice", 25);
