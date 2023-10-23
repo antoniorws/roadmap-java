@@ -51,13 +51,13 @@ https://dev.to/antoniorws/interfaces-e-polimorfismo-3ckm
 
 https://dev.to/antoniorws/heranca-e-classes-abstratas-em-java-7l8
 
-- **Generics**
-
-https://dev.to/antoniorws/desvendando-o-misterio-dos-generics-em-java-code-com-flexibilidade-magica-3hmb
-
 - **Enums**
 
 https://dev.to/antoniorws/enum-fabrica-solitao-em-java-4dc1
+
+- **Generics**
+
+https://dev.to/antoniorws/desvendando-o-misterio-dos-generics-em-java-code-com-flexibilidade-magica-3hmb
 
 - **Scacnner**
 
