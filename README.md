@@ -75,13 +75,17 @@ https://dev.to/antoniorws/vetores-em-java-hgn
 
 https://dev.to/antoniorws/listas-em-java-uma-introducao-simples-e-pratica-2e79
 
-- **Espressões Lambdas**
+- **Collection Set**
 
-https://dev.to/antoniorws/simplificando-expressoes-lambdas-em-java-4nla
+https://dev.to/antoniorws/lista-em-java-sem-valores-repetidos-4n42
 
 - **Hash Map**
 
 https://dev.to/antoniorws/vou-explicar-o-hashmap-em-java-de-forma-simples-pode-ser-2c9g
+
+- **Espressões Lambdas**
+
+https://dev.to/antoniorws/simplificando-expressoes-lambdas-em-java-4nla
 
 - **Teste Unitário JUnit**
 
@@ -98,10 +102,6 @@ https://dev.to/antoniorws/explorando-o-multitarefa-com-threads-em-java-cozinhand
 - **Exceptions**
 
 https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601
-
-- **Collection Set**
-
-https://dev.to/antoniorws/lista-em-java-sem-valores-repetidos-4n42
 
 - **Padrões de Projeto**
 
