@@ -15,5 +15,10 @@ public class ExemploValorRepetido {
             // O útltimo value é o que prevalece
             System.out.println("idade: " + idade); // saída: idade: 2
         }
+
+        // outra alternativa de loop
+        mapaDeIdades.forEach((k, v) -> {
+            System.out.println(k + ": " + v);
+        });
     }
 }
