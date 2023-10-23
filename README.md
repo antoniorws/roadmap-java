@@ -26,6 +26,15 @@ https://dev.to/antoniorws/os-superpoderes-de-static-e-a-inquebravel-fortaleza-fi
 
 https://dev.to/antoniorws/metodos-em-java-a-magia-por-tras-da-programacao-simplificada-292f
 
+- **Condições**<br/>
+_TODO_
+
+- **Laço de Repetição**<br/>
+_TODO_
+
+- **Estrutura de Dados**<br/>
+_TODO_
+
 - **Encapsulamento**
 
 https://dev.to/antoniorws/o-que-e-encapsulamento-em-java-2i6k
