@@ -32,7 +32,7 @@ _Trilha básica para aprender a linguagem java, aqui não tem frameworks ou inte
 
 - [**Generics**](https://dev.to/antoniorws/desvendando-o-misterio-dos-generics-em-java-code-com-flexibilidade-magica-3hmb)
 
-- [**Scacnner**](https://dev.to/antoniorws/scanner-em-java-24o1)
+- [**Scanner**](https://dev.to/antoniorws/scanner-em-java-24o1)
 
 - [**Node**](https://dev.to/antoniorws/explorando-nodes-em-java-5e59)
 
