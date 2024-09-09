@@ -52,6 +52,8 @@ _Trilha básica para aprender a linguagem java, aqui não tem frameworks ou inte
 
 - [**Threads**](https://dev.to/antoniorws/explorando-o-multitarefa-com-threads-em-java-cozinhando-cafe-e-preparando-ovos-1ilm)
 
+- [**Computação Assíncrona em Java (CompletableFuture)**](https://www.baeldung.com/java-completablefuture)
+
 - [**Exceptions**](https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601)
 
 - [**Padrões de Projeto**](https://www.devmedia.com.br/entendendo-os-conceitos-dos-padroes-de-projetos-em-java/29083)
